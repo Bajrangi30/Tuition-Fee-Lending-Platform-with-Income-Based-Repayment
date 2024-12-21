@@ -14,6 +14,8 @@ The core feature of the platform is the income-based repayment system. Students 
 
 ## Contract Address
 0x05CC0745b3B8770b0916C21869fB462D452a546a
+![image](https://github.com/user-attachments/assets/55167df9-fc13-4f85-a816-b8f1505934bb)
+
 ## Project Vision
 The vision of the **Tuition Fee Lending Platform** is to create a more equitable and flexible way for students to finance their education. Traditional student loans often put an undue burden on students who may not have sufficient income to meet fixed repayment schedules immediately after graduation. By using an income-based repayment model, this project aims to:
 
